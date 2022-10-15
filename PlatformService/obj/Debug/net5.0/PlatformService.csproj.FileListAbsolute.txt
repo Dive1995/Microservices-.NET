@@ -65,3 +65,4 @@
 /Users/dive95/Documents/Microservices  .Net/PlatformService/obj/Debug/net5.0/ref/PlatformService.dll
 /Users/dive95/Documents/Microservices  .Net/PlatformService/obj/Debug/net5.0/PlatformService.pdb
 /Users/dive95/Documents/Microservices  .Net/PlatformService/obj/Debug/net5.0/PlatformService.genruntimeconfig.cache
+/Users/dive95/Documents/Microservices  .Net/PlatformService/bin/Debug/net5.0/appsettings.Production.json
